@@ -53,12 +53,12 @@ Run trends, win margins, and more
 
 Clone this repository:
 
-git clone https://github.com/your-username/IPL-Analysis.git
+git clone https://github.com/PasinduW-sketch/ipl-analysis-web.git
 
 
 Go into the project folder:
 
-cd IPL-Analysis
+cd ipl-analysis-web
 
 
 Install dependencies:
@@ -73,7 +73,7 @@ jupyter notebook
 
 Open:
 
-IPL_Analysis.ipynb
+ipl-analysis-web.ipynb
 
 
 Run all cells ▶️
@@ -121,3 +121,4 @@ Pasindu Harsha
 💻 Interested in Data Analysis, Automation, and Software Projects
 
 ⭐ If you like this project, give it a star!
+
