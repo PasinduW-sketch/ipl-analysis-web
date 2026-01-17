@@ -1,126 +1,113 @@
-# 🏏 IPL Analysis Web
+# 🏏 IPL Analysis Web Project
 
-A simple IPL (Indian Premier League) analysis project with **web pages and a Jupyter notebook** exploring IPL data from 2008 to 2025.
+This is a simple **IPL (Indian Premier League) Data Analysis Project** using:
 
-This repository includes interactive/visual web pages, a data notebook, styling, and CSV dataset — all centered around IPL exploratory analysis.
+- 📊 Python (Jupyter Notebook) for data analysis  
+- 🌐 HTML & CSS for showing results as web pages  
+
+The project analyzes IPL match data and shows insights like team performance, wins, toss impact, and trends.
 
 ---
 
-## 📂 Project Contents
+## 📂 Project Files
 
+```
 ipl-analysis-web/
 │
-├── IPL.csv # IPL dataset
-├── IPL_Analysis.ipynb # Main analysis notebook
-├── index.html # Landing page
-├── about.html # About page
-├── visualizations.html # Visualization page
-├── results.html # Analysis output page
-├── notebook.html # Notebook rendered as HTML
-├── style.css # Page styles
-├── README.md # You're reading it!
-└── LICENSE # MIT License
-
-
+├── IPL.csv                # Dataset
+├── IPL_Analysis.ipynb     # Python analysis notebook
+├── index.html             # Home page
+├── about.html             # About project
+├── visualizations.html    # Charts page
+├── results.html           # Results page
+├── notebook.html          # Notebook in HTML format
+├── style.css              # Website styling
+└── README.md              # Project description
+```
 
 ---
 
-## 📊 What You’ll Find
+## 🎯 What This Project Does
 
-- 📁 **Dataset** – `IPL.csv` with IPL match data  
-- 🧠 **Notebook** – `IPL_Analysis.ipynb` for data analysis and visualizations  
-- 🌐 **Web Pages** – Static analysis pages (`index.html`, `visualizations.html`, etc.)  
-- 🎨 **CSS** – `style.css` for styling pages  
-
-You can view analysis results interactively through the HTML pages.
+- Reads IPL match data from `IPL.csv`
+- Analyzes data using Python
+- Creates charts and insights
+- Shows results using web pages
 
 ---
 
-## 🛠️ Technologies & Tools Used
+## 🛠️ Technologies Used
 
-- **Python** (for data analysis)  
-- **Jupyter Notebook**  
-- **HTML & CSS** (for static web pages)  
-- **Pandas, Matplotlib, Seaborn** for charts and data manipulation  
+- Python  
+- Jupyter Notebook  
+- Pandas  
+- Matplotlib  
+- Seaborn  
+- HTML  
+- CSS  
 
 ---
 
-## 🚀 How to Use This Project
+## 🚀 How To Run
 
-### 1. Clone the Repository
+### Option 1: View Website (Easy)
+
+Just open:
+
+```
+index.html
+```
+
+in your browser.
+
+---
+
+### Option 2: Run Python Analysis
+
+1. Install libraries:
 
 ```bash
-git clone https://github.com/PasinduW-sketch/ipl-analysis-web.git
+pip install pandas matplotlib seaborn jupyter
+```
 
+2. Start Jupyter:
 
-2. Navigate to the Project Folder
-cd ipl-analysis-web
-
-3. Open the Notebook
-
-Launch Jupyter:
-
+```bash
 jupyter notebook
+```
 
+3. Open:
 
-Open:
-
+```
 IPL_Analysis.ipynb
+```
 
+4. Run all cells.
 
-Run cells to explore the IPL data.
+---
 
-📄 View the Web Pages
+## 📊 What You Will See
 
-Open any of the .html files in your browser (e.g., index.html, visualizations.html, results.html) to see the visual output without running Python.
+- Which teams win most matches  
+- Toss vs match win analysis  
+- Venue analysis  
+- Match trends and statistics  
 
-📈 Example Insights
+---
 
-Most successful teams over seasons
+## 🧠 Skills Shown
 
-Match win trends
+- Data Analysis  
+- Python Programming  
+- Data Visualization  
+- Making simple data websites  
 
-Toss vs match outcomes
+---
 
-Venue statistics
+## 👨‍💻 Author
 
-Batting and bowling highlights
+**Pasindu Harsha**
 
-(Actual content available in the notebook and HTML pages.)
+---
 
-🧠 Skills Demonstrated
-
-Data exploration & analysis
-
-Python data science workflow
-
-Notebook-based reporting
-
-Static web creation with HTML & CSS
-
-📌 Future Plans
-
-🎯 Add interactive visualizations
-
-🚀 Deploy as a hosted web app
-
-📊 Add advanced metrics & ML analyses
-
-📁 Break into modules for reuse
-
-🤝 Contributing
-
-Feel free to fork this repository and make improvements! Pull requests are welcome.
-If you create new features (e.g., deployed website, dashboards), share them here.
-
-👤 Author
-
-Pasindu Harsha
-Data & Tech Enthusiast — exploring IPL data and interactive insights.
-
-⭐ Like this project?
-
-Give it a ⭐ on GitHub! 
-
-
-
+## ⭐ If you like this project, give it a star!
