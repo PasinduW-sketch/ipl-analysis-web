@@ -120,19 +120,7 @@ Data & Tech Enthusiast — exploring IPL data and interactive insights.
 
 ⭐ Like this project?
 
-Give it a ⭐ on GitHub!
-
-📜 License
-
-This project is licensed under the MIT License.
+Give it a ⭐ on GitHub! 
 
 
----
-
-If you want, I can also generate:
-
-🔹 A **project demo description** to include on your GitHub homepage  
-🔹 A **GitHub profile README** linked to this project  
-🔹 A **deployed version plan** with GitHub Pages or Streamlit 🚀
-::contentReference[oaicite:1]{index=1}
 
