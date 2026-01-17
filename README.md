@@ -1,5 +1,16 @@
 # 🏏 IPL Analysis Web Project
 
+### Python Data Analysis + Web Visualization
+
+![Status](https://img.shields.io/badge/Status-Completed-success)
+![Field](https://img.shields.io/badge/Field-Data%20Analysis-blue)
+![Language](https://img.shields.io/badge/Language-Python-yellow)
+![Notebook](https://img.shields.io/badge/Tool-Jupyter%20Notebook-orange)
+![Visualization](https://img.shields.io/badge/Visualization-Matplotlib%20%26%20Seaborn-green)
+![Web](https://img.shields.io/badge/Web-HTML%20%26%20CSS-red)
+![Dataset](https://img.shields.io/badge/Dataset-IPL-lightgrey)
+![License](https://img.shields.io/badge/License-MIT-purple)
+
 This is a simple **IPL (Indian Premier League) Data Analysis Project** using:
 
 - 📊 Python (Jupyter Notebook) for data analysis  
@@ -111,3 +122,4 @@ IPL_Analysis.ipynb
 ---
 
 ## ⭐ If you like this project, give it a star!
+
